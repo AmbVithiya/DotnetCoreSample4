@@ -20,6 +20,6 @@ namespace Core.Entities
 
         public ProductBrand ProductBrand {get; set;}
 
-         public int ProductBrandId {get; set;}
+        public int ProductBrandId {get; set;}
     }
 }

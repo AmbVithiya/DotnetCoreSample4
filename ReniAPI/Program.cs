@@ -31,6 +31,9 @@ app.UseStaticFiles();
 
 app.UseHttpsRedirection();
 
+//Adding Middleware
+app.UseCors("CorsPolicy");
+
 app.UseAuthentication();
 app.UseAuthorization();
 
