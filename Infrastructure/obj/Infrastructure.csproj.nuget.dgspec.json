@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Core\\Core.csproj": {
@@ -53,18 +53,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.312\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\vithiya.thavalingam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vithiya.thavalingam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.312\\RuntimeIdentifierGraph.json"
         }
       }
     }
