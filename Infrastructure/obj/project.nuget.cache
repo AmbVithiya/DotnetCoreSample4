@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1o1SAdXoW8pbLi/x4CumPbEnTsBdoVF8c+3HIYTx3tjOJCXPfTuCWs58ettD1zmGMgoQS6u8ip9wkF762VnfUg==",
+  "dgSpecHash": "fd7mBXZstbXpaADln4b3d9OD3A0y67bygyiAJo5d9XCtG6ytOPybcYaV0LJrgDyj3uHufAbNmM9Jd8bgmoYEFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vithiya.thavalingam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vithiya.thavalingam\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Core\\Core.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\vithiya.thavalingam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\vithiya.thavalingam\\Projects\\DotNet\\Samples\\SampleAPI4\\infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vithiya.thavalingam\\AppData\\Roaming\\NuGet\\NuGet.Config"
